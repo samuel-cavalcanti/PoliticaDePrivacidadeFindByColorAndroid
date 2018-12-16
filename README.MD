@@ -9,7 +9,7 @@ Essa aplicação funciona da seguinte maneira: Primeiro é extraída da câmera 
 #### Propaganda e Ads no aplicativo
 
 A utilização de propaganda em Aplicativos android é algo bastante conhecida entre os usuários. O sistema de propaganda utilizada na aplicação é o Admob fornecida pela própria Google. Para mais informações sobre a política de privacidade da Google : [Política de Privacidade Google](https://policies.google.com/privacy?hl=pt&gl=BR).
-Essa aplicação foi criada pensando nos alunos de graduação da Universidade federal do Rio Grande do Norte. Com o objeto de ajudá-los a entender a importância dos métodos numéricos para resolução de problemas. No entanto, foi gasto energia e dedicação nesse trabalho e penso ser justo receber alguma retribuição por isso, após uma análise, foi decidido que assistir um único vídeo de 5 segundos seria a ótima solução para esse impasse.  
+Essa aplicação foi criada pensando nos alunos de graduação da Universidade federal do Rio Grande do Norte. Com o objeto de ajudá-los a entender a importância dos métodos numéricos para resolução de problemas. No entanto, foi gasto energia e dedicação nesse trabalho e penso ser justo receber alguma retribuição por isso, após uma análise, foi decidido que assistir um único vídeo seria a ótima solução para esse impasse.  
 
 #### Contato
 Caso tenha alguma dúvida sobre sua a política de privacidade deste aplicativo 
