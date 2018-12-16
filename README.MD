@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-#### Porque eu preciso ter acesso a câmera do celular e do  armazenamento do dispositivo ?
+#### Por que o Aplicativo precisa ter acesso a câmera do celular e do  armazenamento do dispositivo ?
 
 Primeiramente, essa aplicação android não envia dados da câmera do seu dispositivo para ninguém. Em segundo a necessidade de ter acesso ao armazenamento é para salvar as features (posição x,y do centro de massa do objeto e tempo) na pasta download do dispositivo junto com os frames do processamento de imagem. 
 
