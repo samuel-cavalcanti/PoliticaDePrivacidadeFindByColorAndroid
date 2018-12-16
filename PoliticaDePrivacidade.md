@@ -1,0 +1,16 @@
+# Política de Privacidade
+
+#### Porque eu preciso ter acesso a câmera do celular e do  armazenamento do dispositivo ?
+
+Primeiramente, essa aplicação android não envia dados da câmera do seu dispositivo para ninguém. Em segundo a necessidade de ter acesso ao armazenamento é para salvar as features (posição x,y do centro de massa do objeto e tempo) na pasta download do dispositivo junto com os frames do processamento de imagem. 
+
+Essa aplicação funciona da seguinte maneira: Primeiro é extraída da câmera a imagem. Com a biblioteca OpenCV Android é isolado um determinado Objeto pela sua cor. Calculado a posição x,y do centro de massa no espaço R² da câmera, é recuperado do tempo em milisegundos fornecido pelo próprio sistema e essas informações ou features são armazenadas em um arquivo de formato .csv na pasta download. Também é salvo um vídeo no formato .avi com os frames coletados. Vale a pena ressaltar que todas essas operações são feitas no próprio dispositivo sem a necessidade de internet. 
+
+#### Propaganda e Ads no aplicativo
+
+A utilização de propaganda em Aplicativos android é algo bastante conhecida entre os usuários. O sistema de propaganda utilizada na aplicação é o Admob fornecida pela própria Google. Para mais informações sobre a política de privacidade da Google : [Política de Privacidade Google](https://policies.google.com/privacy?hl=pt&gl=BR).
+Essa aplicação foi criada pensando nos alunos de graduação da Universidade federal do Rio Grande do Norte. Com o objeto de ajudá-los a entender a importância dos métodos numéricos para resolução de problemas. No entanto, foi gasto energia e dedicação nesse trabalho e penso ser justo receber alguma retribuição por isso, após uma análise, foi decidido que assistir um único vídeo de 5 segundos seria a ótima solução para esse impasse.  
+
+#### Contato
+Caso tenha alguma dúvida sobre sua a política de privacidade deste aplicativo 
+ou sugestão. Por favor contate-me via email  scavalcanti111@gmail.com 
