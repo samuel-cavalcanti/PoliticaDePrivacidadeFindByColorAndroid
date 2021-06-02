@@ -13,4 +13,4 @@ Essa aplicação foi criada pensando nos alunos de graduação da Universidade f
 
 #### Contato
 Caso tenha alguma dúvida sobre sua a política de privacidade deste aplicativo 
-ou sugestão. Por favor contate-me via email  scavalcanti111@gmail.com 
+ou sugestão. Por favor contate-me via email  scavalcanti111@gmail.com
